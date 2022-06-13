@@ -6,7 +6,7 @@
 </p>
     <p align="center">O incrível efeito da chuva de letras no estilo da trilogia Matrix.</p>
     <p align="center">
-        <img src="https://img.shields.io/badge/Jeferson%20Lucas-The%20Matrix%20Effect-green" alt="JefersonLuckas">
+        <img src="https://img.shields.io/badge/Jeferson%20Lucas-The%20Matrix%20Effect-green" alt="tandsilva">
         <img src="https://img.shields.io/github/license/JefersonLucas/the-matrix-effect" alt="License">
         <img src="https://img.shields.io/github/languages/count/JefersonLucas/the-matrix-effect" alt="GitHub language count">
         <img src="https://img.shields.io/github/languages/top/JefersonLucas/the-matrix-effect" alt="GitHub top language">
